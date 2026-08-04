@@ -1,0 +1,114 @@
+/* 朋友圈分类页 /categories/朋友圈/ */
+body.pyq-feed #page-header {
+  display: none;
+}
+
+body.pyq-feed #aside-content {
+  display: none;
+}
+
+body.pyq-feed .layout {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+body.pyq-feed #category .article-sort-title,
+body.pyq-feed #recent-posts.category_ui {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+body.pyq-feed #category .article-sort-title {
+  text-align: center;
+  font-size: 1.35rem;
+  margin: 1.5rem 0 1rem;
+  border: none;
+}
+
+body.pyq-feed #recent-posts .post_cover {
+  display: none;
+}
+
+body.pyq-feed #recent-posts .recent-post-item,
+body.pyq-feed #category .article-sort-item {
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: var(--card-box-shadow);
+  margin-bottom: 1rem;
+  padding: 1rem 1.1rem;
+  border: none;
+}
+
+body.pyq-feed #recent-posts .recent-post-item:hover,
+body.pyq-feed #category .article-sort-item:hover {
+  box-shadow: var(--card-hover-box-shadow);
+}
+
+body.pyq-feed #recent-posts .recent-post-info,
+body.pyq-feed #category .article-sort-item-info {
+  width: 100%;
+  padding: 0;
+}
+
+body.pyq-feed #recent-posts .article-title,
+body.pyq-feed #category .article-sort-item-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 0.35rem;
+}
+
+body.pyq-feed #recent-posts .post-meta-date,
+body.pyq-feed #category .article-sort-item-time {
+  font-size: 0.8rem;
+  opacity: 0.55;
+  margin-bottom: 0.5rem;
+}
+
+body.pyq-feed #recent-posts .content,
+body.pyq-feed #category .article-sort-item-info .content {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  opacity: 0.9;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+body.pyq-feed #recent-posts .article-meta__categories,
+body.pyq-feed #recent-posts .article-meta.tags {
+  display: none;
+}
+
+/* 朋友圈单篇正文页 */
+body.pyq-post #post-info {
+  margin-bottom: 0.5rem;
+}
+
+body.pyq-post #post-info .post-title {
+  font-size: 1.1rem;
+}
+
+body.pyq-post .post-meta-wrap .article-meta__categories {
+  display: none;
+}
+
+body.pyq-post #article-container .gallery-container {
+  margin-top: 0.75rem;
+}
+
+body.pyq-post #article-container img {
+  border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+  body.pyq-feed .layout {
+    padding: 0 0.75rem;
+  }
+
+  body.pyq-feed #recent-posts .recent-post-item,
+  body.pyq-feed #category .article-sort-item {
+    border-radius: 10px;
+    padding: 0.85rem 0.9rem;
+  }
+}

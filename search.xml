@@ -4,17 +4,23 @@
   
     
     <entry>
-      <title>毕业设计</title>
-      <link href="/2022/04/12/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
-      <url>/2022/04/12/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/</url>
+      <title>26年08月01日-街景</title>
+      <link href="/2026/08/01/%E6%9C%8B%E5%8F%8B%E5%9C%88/26%E5%B9%B408%E6%9C%8801%E6%97%A5-%E8%A1%97%E6%99%AF/"/>
+      <url>/2026/08/01/%E6%9C%8B%E5%8F%8B%E5%9C%88/26%E5%B9%B408%E6%9C%8801%E6%97%A5-%E8%A1%97%E6%99%AF/</url>
       
-        <content type="html"><![CDATA[<h1 id="ros自主巡航机器人"><a href="#ros自主巡航机器人" class="headerlink" title="ros自主巡航机器人"></a>ros自主巡航机器人</h1><h2 id="gazebo仿真"><a href="#gazebo仿真" class="headerlink" title="gazebo仿真"></a>gazebo仿真</h2><p><a href="https://www.bilibili.com/video/BV1Ah4y1s7zf/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1Ah4y1s7zf/?spm_id_from=333.999.0.0</a></p><h2 id="实物演示"><a href="#实物演示" class="headerlink" title="实物演示"></a>实物演示</h2><pre><code>https://www.bilibili.com/video/BV1Ah4y1s7zf/?spm_id_from=333.999.0.0</code></pre><h2 id="行为方案"><a href="#行为方案" class="headerlink" title="行为方案"></a>行为方案</h2><h3 id="硬件"><a href="#硬件" class="headerlink" title="硬件"></a>硬件</h3><h3 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h3><pre><code>AMCL+TEB+Dijstar定位导航，EKF融合lster、imu、odom，gmapping建图。</code></pre>]]></content>
+        <content type="html"><![CDATA[<p>八月一日街景。</p><div class="gallery-container" data-type="data" data-button="">      <div class="gallery-data">[{"url":"001.jpg","alt":"001"},{"url":"002.jpg","alt":"002"},{"url":"003.jpg","alt":"003"},{"url":"004.jpg","alt":"004"},{"url":"005.jpg","alt":"005"},{"url":"006.jpg","alt":"006"},{"url":"007.jpg","alt":"007"},{"url":"008.jpg","alt":"008"},{"url":"009.jpg","alt":"009"},{"url":"010.jpg","alt":"010"},{"url":"011.jpg","alt":"011"},{"url":"012.jpg","alt":"012"},{"url":"013.jpg","alt":"013"},{"url":"014.jpg","alt":"014"},{"url":"015.jpg","alt":"015"},{"url":"016.jpg","alt":"016"},{"url":"017.jpg","alt":"017"},{"url":"018.jpg","alt":"018"},{"url":"019.jpg","alt":"019"},{"url":"020.jpg","alt":"020"},{"url":"021.jpg","alt":"021"},{"url":"022.jpg","alt":"022"},{"url":"023.jpg","alt":"023"},{"url":"024.jpg","alt":"024"},{"url":"025.jpg","alt":"025"},{"url":"026.jpg","alt":"026"},{"url":"027.jpg","alt":"027"},{"url":"028.jpg","alt":"028"},{"url":"029.jpg","alt":"029"},{"url":"030.jpg","alt":"030"},{"url":"031.jpg","alt":"031"},{"url":"032.jpg","alt":"032"},{"url":"033.jpg","alt":"033"},{"url":"034.jpg","alt":"034"},{"url":"035.jpg","alt":"035"},{"url":"036.jpg","alt":"036"},{"url":"037.jpg","alt":"037"},{"url":"038.jpg","alt":"038"},{"url":"039.jpg","alt":"039"},{"url":"040.jpg","alt":"040"},{"url":"041.jpg","alt":"041"},{"url":"042.jpg","alt":"042"},{"url":"043.jpg","alt":"043"},{"url":"044.jpg","alt":"044"},{"url":"045.jpg","alt":"045"},{"url":"046.jpg","alt":"046"},{"url":"047.jpg","alt":"047"},{"url":"048.jpg","alt":"048"},{"url":"049.jpg","alt":"049"},{"url":"050.jpg","alt":"050"},{"url":"051.jpg","alt":"051"},{"url":"052.jpg","alt":"052"},{"url":"053.jpg","alt":"053"},{"url":"054.jpg","alt":"054"},{"url":"055.jpg","alt":"055"},{"url":"056.jpg","alt":"056"},{"url":"057.jpg","alt":"057"},{"url":"058.jpg","alt":"058"},{"url":"059.jpg","alt":"059"},{"url":"060.jpg","alt":"060"},{"url":"061.jpg","alt":"061"},{"url":"062.jpg","alt":"062"},{"url":"063.jpg","alt":"063"},{"url":"064.jpg","alt":"064"},{"url":"065.jpg","alt":"065"},{"url":"066.jpg","alt":"066"},{"url":"067.jpg","alt":"067"},{"url":"068.jpg","alt":"068"},{"url":"069.jpg","alt":"069"},{"url":"070.jpg","alt":"070"},{"url":"071.jpg","alt":"071"},{"url":"072.jpg","alt":"072"},{"url":"073.jpg","alt":"073"},{"url":"074.jpg","alt":"074"},{"url":"075.jpg","alt":"075"},{"url":"076.jpg","alt":"076"},{"url":"077.jpg","alt":"077"},{"url":"078.jpg","alt":"078"},{"url":"079.jpg","alt":"079"},{"url":"080.jpg","alt":"080"},{"url":"081.jpg","alt":"081"},{"url":"082.jpg","alt":"082"},{"url":"083.jpg","alt":"083"},{"url":"084.jpg","alt":"084"},{"url":"085.jpg","alt":"085"},{"url":"086.jpg","alt":"086"},{"url":"087.jpg","alt":"087"},{"url":"088.jpg","alt":"088"},{"url":"089.jpg","alt":"089"},{"url":"090.jpg","alt":"090"},{"url":"091.jpg","alt":"091"},{"url":"092.jpg","alt":"092"},{"url":"093.jpg","alt":"093"},{"url":"094.jpg","alt":"094"},{"url":"095.jpg","alt":"095"},{"url":"096.jpg","alt":"096"},{"url":"097.jpg","alt":"097"},{"url":"098.jpg","alt":"098"},{"url":"099.jpg","alt":"099"},{"url":"100.jpg","alt":"100"},{"url":"101.jpg","alt":"101"},{"url":"102.jpg","alt":"102"},{"url":"103.jpg","alt":"103"},{"url":"104.jpg","alt":"104"},{"url":"105.jpg","alt":"105"},{"url":"106.jpg","alt":"106"},{"url":"107.jpg","alt":"107"},{"url":"108.jpg","alt":"108"},{"url":"109.jpg","alt":"109"},{"url":"110.jpg","alt":"110"},{"url":"111.jpg","alt":"111"},{"url":"112.jpg","alt":"112"},{"url":"113.jpg","alt":"113"},{"url":"114.jpg","alt":"114"},{"url":"115.jpg","alt":"115"},{"url":"116.jpg","alt":"116"},{"url":"117.jpg","alt":"117"},{"url":"118.jpg","alt":"118"},{"url":"119.jpg","alt":"119"},{"url":"120.jpg","alt":"120"},{"url":"121.jpg","alt":"121"},{"url":"122.jpg","alt":"122"},{"url":"123.jpg","alt":"123"},{"url":"124.jpg","alt":"124"},{"url":"125.jpg","alt":"125"},{"url":"126.jpg","alt":"126"},{"url":"127.jpg","alt":"127"},{"url":"128.jpg","alt":"128"},{"url":"129.jpg","alt":"129"},{"url":"130.jpg","alt":"130"},{"url":"131.jpg","alt":"131"},{"url":"132.jpg","alt":"132"},{"url":"133.jpg","alt":"133"},{"url":"134.jpg","alt":"134"},{"url":"135.jpg","alt":"135"},{"url":"136.jpg","alt":"136"},{"url":"137.jpg","alt":"137"},{"url":"138.jpg","alt":"138"},{"url":"139.jpg","alt":"139"},{"url":"140.jpg","alt":"140"},{"url":"141.jpg","alt":"141"},{"url":"142.jpg","alt":"142"},{"url":"143.jpg","alt":"143"},{"url":"144.jpg","alt":"144"},{"url":"145.jpg","alt":"145"},{"url":"146.jpg","alt":"146"},{"url":"147.jpg","alt":"147"},{"url":"148.jpg","alt":"148"},{"url":"149.jpg","alt":"149"},{"url":"150.jpg","alt":"150"},{"url":"151.jpg","alt":"151"},{"url":"152.jpg","alt":"152"},{"url":"153.jpg","alt":"153"},{"url":"154.jpg","alt":"154"},{"url":"155.jpg","alt":"155"},{"url":"156.jpg","alt":"156"},{"url":"157.jpg","alt":"157"},{"url":"158.jpg","alt":"158"},{"url":"159.jpg","alt":"159"},{"url":"160.jpg","alt":"160"},{"url":"161.jpg","alt":"161"}]</div>      <div class="gallery-items">      </div>    </div>]]></content>
       
+      
+      <categories>
+          
+          <category> 朋友圈 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 演示 </tag>
+            <tag> 日常 </tag>
             
         </tags>
       
@@ -23,11 +29,36 @@
     
     
     <entry>
-      <title>实习&amp;&amp;全职</title>
-      <link href="/2022/03/12/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
-      <url>/2022/03/12/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/</url>
+      <title>26年06月06日-郊游</title>
+      <link href="/2025/06/06/%E6%9C%8B%E5%8F%8B%E5%9C%88/26%E5%B9%B406%E6%9C%8806%E6%97%A5-%E9%83%8A%E6%B8%B8/"/>
+      <url>/2025/06/06/%E6%9C%8B%E5%8F%8B%E5%9C%88/26%E5%B9%B406%E6%9C%8806%E6%97%A5-%E9%83%8A%E6%B8%B8/</url>
       
-        <content type="html"><![CDATA[<h1 id="实习经历"><a href="#实习经历" class="headerlink" title="实习经历"></a>实习经历</h1><h2 id="清华大学猛狮实验室"><a href="#清华大学猛狮实验室" class="headerlink" title="清华大学猛狮实验室"></a>清华大学猛狮实验室</h2><pre><code>岗位：智能驾驶工程师时间：2022.5~2022.9项目背景：在一定环境下，实现快响机器人（四旋翼+阿卡曼底盘）在斜坡和平地之间的起飞降落，以及形态切换。工作任务：搭建仿真环境、设计控制算法，实物运动测试。</code></pre><h3 id="行为方案"><a href="#行为方案" class="headerlink" title="行为方案"></a>行为方案</h3><ol><li><p>在 adams 里联合 matlab 建立快响机器人的仿真环境，从将机器人的 solidworks 模型导入到 adams 内。根据动力学，在 adams 内建立几何关系，配置驱动关节（四驱动电机法向升力+偏航力），并输出机器人的状态信息【位置+线速度+欧拉角+角速度】。</p></li><li><p>通过运动学和动力学在 simulink 内设计控制器，使机器人飞行。通过5环 pid，控制机器人移动。位置环〉速度环〉姿态环〉角速度环〉电机转动产生升力。达到机器人正常起飞，移动，原地降落。使用s函数（C语言）设计状态转换机，达到快响机器人正常助跑起飞降落的功能。</p></li><li><p>通过调研引入地效扰动，使实验更贴近真实，引入JLT算法实时调节速度，控制其平稳降落。</p></li><li><p>搭建四旋翼控制算法（PID+LQR+MPC），并与 adams 规划（五次多项式曲线拟合，JLT(Jerk Limited Trajectory)），以及降落、地盘运动控制。</p></li></ol><h3 id="项目总结"><a href="#项目总结" class="headerlink" title="项目总结"></a>项目总结</h3><pre><code>giteee:sadasdasd.gitee.io</code></pre><h2 id="北京龙格自动化系统工程有限公司"><a href="#北京龙格自动化系统工程有限公司" class="headerlink" title="北京龙格自动化系统工程有限公司"></a>北京龙格自动化系统工程有限公司</h2><pre><code>岗位：自动化时间：2021.12-2022.04职能：1. 负责理疗机的建模、仿真。2. 使用 matlab(simulink) 与 adams 联合仿真，验证算法。3. 将 simulink 仿真验证的控制算法，生成代码并部署 PLC 上。4. 根据项目需求，自行查阅文档、设计方法、编写测试算法。利用机械臂 solidworks 图纸导出 urdf 文件，导入 simulink 进行仿真控制。系统测试控制系统。</code></pre><h3 id="项目总结-1"><a href="#项目总结-1" class="headerlink" title="项目总结"></a>项目总结</h3><pre><code>giteee:sadasdasd.gitee.io</code></pre>]]></content>
+        <content type="html"><![CDATA[<p>今天随便走走。</p><h2 id="贵阳"><a href="#贵阳" class="headerlink" title="贵阳"></a>贵阳</h2><h2 id="西安"><a href="#西安" class="headerlink" title="西安"></a>西安</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 朋友圈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>毕业设计</title>
+      <link href="/2022/04/12/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+      <url>/2022/04/12/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="ros自主巡航机器人"><a href="#ros自主巡航机器人" class="headerlink" title="ros自主巡航机器人"></a>ros自主巡航机器人</h1><h2 id="gazebo仿真"><a href="#gazebo仿真" class="headerlink" title="gazebo仿真"></a>gazebo仿真</h2><p><a href="https://www.bilibili.com/video/BV1Ah4y1s7zf/?spm_id_from=333.999.0.0">https://www.bilibili.com/video/BV1Ah4y1s7zf/?spm_id_from=333.999.0.0</a></p><h2 id="实物演示"><a href="#实物演示" class="headerlink" title="实物演示"></a>实物演示</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://www.bilibili.com/video/BV1Ah4y1s7zf/?spm_id_from=333.999.0.0</span><br></pre></td></tr></table></figure><h2 id="行为方案"><a href="#行为方案" class="headerlink" title="行为方案"></a>行为方案</h2><h3 id="硬件"><a href="#硬件" class="headerlink" title="硬件"></a>硬件</h3><h3 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">AMCL+TEB+Dijstar定位导航，EKF融合lster、imu、odom，gmapping建图。</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
@@ -46,7 +77,26 @@
       <link href="/2022/03/12/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-%E6%95%99%E8%82%B2%E7%BB%8F%E5%8E%86/"/>
       <url>/2022/03/12/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86-%E6%95%99%E8%82%B2%E7%BB%8F%E5%8E%86/</url>
       
-        <content type="html"><![CDATA[<h1 id="教育经历"><a href="#教育经历" class="headerlink" title="教育经历"></a>教育经历</h1><h2 id="学校-专业"><a href="#学校-专业" class="headerlink" title="学校&amp;&amp;专业"></a>学校&amp;&amp;专业</h2><pre><code>防灾科技学院--测控技术与仪器 （2019-2023)</code></pre><h2 id="个人奖项"><a href="#个人奖项" class="headerlink" title="个人奖项"></a>个人奖项</h2><h3 id="2022年"><a href="#2022年" class="headerlink" title="2022年:"></a>2022年:</h3><pre><code>robomaster工程机器人实战二等奖(国二)   robomaster全国超级对抗赛三等奖  </code></pre><h3 id="2021年："><a href="#2021年：" class="headerlink" title="2021年："></a>2021年：</h3><pre><code>robomaster全国超级对抗赛三等奖robomaster高校联盟赛二等奖</code></pre><h3 id="2020年："><a href="#2020年：" class="headerlink" title="2020年："></a>2020年：</h3><pre><code>电子电工技能大赛一等奖(校内)</code></pre><h2 id="校园经历"><a href="#校园经历" class="headerlink" title="校园经历"></a>校园经历</h2><h3 id="2019-2022年"><a href="#2019-2022年" class="headerlink" title="2019~2022年:"></a>2019~2022年:</h3><pre><code>思玄机器人战队队员    </code></pre><h3 id="2021"><a href="#2021" class="headerlink" title="2021:"></a>2021:</h3><pre><code>担任电控组组长  步兵、工程机器人的电控负责人，负责整体代码设计与调试</code></pre><h3 id="2022"><a href="#2022" class="headerlink" title="2022:"></a>2022:</h3><pre><code>担任副队长负责工程机器人整体的代码设计与调试，电控组培训与管理。负责超级电容的研制与开发，对机器人移动实现良好的功率控制。与机械视觉配合，设计研发、调试机器人。</code></pre><h1 id="毕业设计："><a href="#毕业设计：" class="headerlink" title="毕业设计："></a>毕业设计：</h1><h2 id="基于ROS的探测巡航机器人"><a href="#基于ROS的探测巡航机器人" class="headerlink" title="基于ROS的探测巡航机器人"></a>基于ROS的探测巡航机器人</h2><pre><code>详情：.bili文档报告：</code></pre><h1 id="个人开源-博客："><a href="#个人开源-博客：" class="headerlink" title="个人开源&amp;&amp;博客："></a>个人开源&amp;&amp;博客：</h1><h2 id="开源"><a href="#开源" class="headerlink" title="开源"></a>开源</h2><pre><code>软件功率控制：https://bbs.robomaster.com/forum.php?mod=viewthread&amp;tid=22101代码讲解视频：https://www.bilibili.com/video/BV1fk4y1479D/</code></pre><h2 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h2><pre><code>csdn：帅帅的麦兜地址：https://blog.csdn.net/Monster5782?type=blog</code></pre><h2 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱:"></a>邮箱:</h2><p><a href="mailto:&#x7a;&#122;&#113;&#x31;&#54;&#x37;&#x39;&#49;&#x31;&#x32;&#x39;&#57;&#53;&#64;&#49;&#x36;&#x33;&#46;&#x63;&#x6f;&#109;">&#x7a;&#122;&#113;&#x31;&#54;&#x37;&#x39;&#49;&#x31;&#x32;&#x39;&#57;&#53;&#64;&#49;&#x36;&#x33;&#46;&#x63;&#x6f;&#109;</a><br><a href="mailto:&#x7a;&#104;&#106;&#x74;&#117;&#122;&#105;&#x35;&#53;&#56;&#50;&#x40;&#x67;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x7a;&#104;&#106;&#x74;&#117;&#122;&#105;&#x35;&#53;&#56;&#50;&#x40;&#x67;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="教育经历"><a href="#教育经历" class="headerlink" title="教育经历"></a>教育经历</h1><h2 id="学校-专业"><a href="#学校-专业" class="headerlink" title="学校&amp;&amp;专业"></a>学校&amp;&amp;专业</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">应急管理大学--测控技术与仪器 （2019-2023)</span><br></pre></td></tr></table></figure><h2 id="个人奖项"><a href="#个人奖项" class="headerlink" title="个人奖项"></a>个人奖项</h2><h3 id="2022年"><a href="#2022年" class="headerlink" title="2022年:"></a>2022年:</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">robomaster工程机器人实战二等奖(国二)   robomaster全国超级对抗赛三等奖  </span><br></pre></td></tr></table></figure><h3 id="2021年："><a href="#2021年：" class="headerlink" title="2021年："></a>2021年：</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">robomaster全国超级对抗赛三等奖robomaster高校联盟赛二等奖</span><br></pre></td></tr></table></figure><h3 id="2020年："><a href="#2020年：" class="headerlink" title="2020年："></a>2020年：</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">电子电工技能大赛一等奖(校内)</span><br></pre></td></tr></table></figure><h2 id="校园经历"><a href="#校园经历" class="headerlink" title="校园经历"></a>校园经历</h2><h3 id="2019-2022年"><a href="#2019-2022年" class="headerlink" title="2019~2022年:"></a>2019~2022年:</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">思玄机器人战队队员    </span><br></pre></td></tr></table></figure><h3 id="2021"><a href="#2021" class="headerlink" title="2021:"></a>2021:</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">担任电控组组长  步兵、工程机器人的电控负责人，负责整体代码设计与调试</span><br></pre></td></tr></table></figure><h3 id="2022"><a href="#2022" class="headerlink" title="2022:"></a>2022:</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">担任副队长负责工程机器人整体的代码设计与调试，电控组培训与管理。负责超级电容的研制与开发，对机器人移动实现良好的功率控制。与机械视觉配合，设计研发、调试机器人。</span><br></pre></td></tr></table></figure><h1 id="毕业设计："><a href="#毕业设计：" class="headerlink" title="毕业设计："></a>毕业设计：</h1><h2 id="基于ROS的探测巡航机器人"><a href="#基于ROS的探测巡航机器人" class="headerlink" title="基于ROS的探测巡航机器人"></a>基于ROS的探测巡航机器人</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">详情：.bili文档报告：</span><br></pre></td></tr></table></figure><h1 id="个人开源-博客："><a href="#个人开源-博客：" class="headerlink" title="个人开源&amp;&amp;博客："></a>个人开源&amp;&amp;博客：</h1><h2 id="开源"><a href="#开源" class="headerlink" title="开源"></a>开源</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">软件功率控制：https://bbs.robomaster.com/forum.php?mod=viewthread&amp;tid=22101</span><br><span class="line">代码讲解视频：https://www.bilibili.com/video/BV1fk4y1479D/</span><br></pre></td></tr></table></figure><h2 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">csdn：帅帅的麦兜</span><br><span class="line">地址：https://blog.csdn.net/Monster5782?type=blog</span><br></pre></td></tr></table></figure><h2 id="邮箱"><a href="#邮箱" class="headerlink" title="邮箱:"></a>邮箱:</h2><p><a href="mailto:&#x7a;&#x7a;&#113;&#x31;&#54;&#55;&#57;&#x31;&#49;&#50;&#x39;&#57;&#53;&#x40;&#x31;&#x36;&#x33;&#46;&#x63;&#111;&#109;">&#x7a;&#x7a;&#113;&#x31;&#54;&#55;&#57;&#x31;&#49;&#50;&#x39;&#57;&#53;&#x40;&#x31;&#x36;&#x33;&#46;&#x63;&#111;&#109;</a><br><a href="mailto:&#122;&#x68;&#x6a;&#116;&#x75;&#122;&#x69;&#53;&#53;&#x38;&#50;&#x40;&#x67;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#122;&#x68;&#x6a;&#116;&#x75;&#122;&#x69;&#53;&#53;&#x38;&#50;&#x40;&#x67;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 演示 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实习&amp;&amp;全职</title>
+      <link href="/2022/03/12/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/"/>
+      <url>/2022/03/12/%E5%B7%A5%E4%BD%9C%E7%BB%8F%E5%8E%86/</url>
+      
+        <content type="html"><![CDATA[<h1 id="实习经历"><a href="#实习经历" class="headerlink" title="实习经历"></a>实习经历</h1><h2 id="清华大学猛狮实验室"><a href="#清华大学猛狮实验室" class="headerlink" title="清华大学猛狮实验室"></a>清华大学猛狮实验室</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">岗位：智能驾驶工程师</span><br><span class="line">时间：2022.5~2022.9</span><br><span class="line">项目背景：在一定环境下，实现快响机器人（四旋翼+阿卡曼底盘）在斜坡和平地之间的起飞降落，以及形态切换。</span><br><span class="line">工作任务：搭建仿真环境、设计控制算法，实物运动测试。</span><br></pre></td></tr></table></figure><h3 id="行为方案"><a href="#行为方案" class="headerlink" title="行为方案"></a>行为方案</h3><ol><li><p>在 adams 里联合 matlab 建立快响机器人的仿真环境，从将机器人的 solidworks 模型导入到 adams 内。根据动力学，在 adams 内建立几何关系，配置驱动关节（四驱动电机法向升力+偏航力），并输出机器人的状态信息【位置+线速度+欧拉角+角速度】。</p></li><li><p>通过运动学和动力学在 simulink 内设计控制器，使机器人飞行。通过5环 pid，控制机器人移动。位置环〉速度环〉姿态环〉角速度环〉电机转动产生升力。达到机器人正常起飞，移动，原地降落。使用s函数（C语言）设计状态转换机，达到快响机器人正常助跑起飞降落的功能。</p></li><li><p>通过调研引入地效扰动，使实验更贴近真实，引入JLT算法实时调节速度，控制其平稳降落。</p></li><li><p>搭建四旋翼控制算法（PID+LQR+MPC），并与 adams 规划（五次多项式曲线拟合，JLT(Jerk Limited Trajectory)），以及降落、地盘运动控制。</p></li></ol><h3 id="项目总结"><a href="#项目总结" class="headerlink" title="项目总结"></a>项目总结</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">giteee:sadasdasd.gitee.io</span><br></pre></td></tr></table></figure><h2 id="北京龙格自动化系统工程有限公司"><a href="#北京龙格自动化系统工程有限公司" class="headerlink" title="北京龙格自动化系统工程有限公司"></a>北京龙格自动化系统工程有限公司</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">岗位：自动化</span><br><span class="line">时间：2021.12-2022.04</span><br><span class="line">职能：</span><br><span class="line">1. 负责理疗机的建模、仿真。</span><br><span class="line">2. 使用 matlab(simulink) 与 adams 联合仿真，验证算法。</span><br><span class="line">3. 将 simulink 仿真验证的控制算法，生成代码并部署 PLC 上。</span><br><span class="line">4. 根据项目需求，自行查阅文档、设计方法、编写测试算法。利用机械臂 solidworks 图纸导出 urdf 文件，导入 simulink 进行仿真控制。系统测试控制系统。</span><br></pre></td></tr></table></figure><h3 id="项目总结-1"><a href="#项目总结-1" class="headerlink" title="项目总结"></a>项目总结</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">giteee:sadasdasd.gitee.io</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
